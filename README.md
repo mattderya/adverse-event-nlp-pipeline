@@ -39,4 +39,42 @@ Manual review of thousands of PubMed abstracts was taking weeks and introducing 
 
 ---
 
-## 🛠️ Te
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **NLP Models** | DistilBERT, BioBERT, HuggingFace Transformers |
+| **Framework** | TensorFlow, Keras |
+| **Data Processing** | Pandas, NumPy, Scikit-learn |
+| **Visualization** | Matplotlib, Seaborn |
+| **Domain** | Pharmacovigilance, Oncology, Immunology, FDA Regulatory |
+
+---
+
+## 📁 Repository Structure
+```
+adverse-event-nlp-pipeline/
+│
+├── adverse_event_nlp.ipynb    # Main Kaggle notebook
+├── requirements.txt           # Dependencies
+└── README.md
+```
+
+---
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/mattderya/adverse-event-nlp-pipeline.git
+cd adverse-event-nlp-pipeline
+pip install -r requirements.txt
+```
+
+---
+
+## 👤 Author
+
+**Matt Derya** | Data Scientist | 15+ years Pharma
+- 🌐 [mattderya.com](https://mattderya.com)
+- 💼 [linkedin.com/in/mttdryai](https://linkedin.com/in/mttdryai)
+- 🐙 [github.com/mattderya](https://github.com/mattderya)
+- 📧 mttdryai@gmail.com
